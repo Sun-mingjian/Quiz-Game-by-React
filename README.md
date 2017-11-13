@@ -1,1 +1,1 @@
-###Simple quiz for learning react.js
+###Simple quiz using react.js and routie.js
